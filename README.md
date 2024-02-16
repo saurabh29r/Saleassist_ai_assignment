@@ -1,7 +1,7 @@
 
 # SaleAssist.ai Assignment
 
-So in this assignmnent I have to build a E-commerce page using Reactjs. I got figma model for refernce.
+So in this assignmnent I have to build a E-commerce page using Reactjs. I got figma model for reference.
 
 
 
