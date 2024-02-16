@@ -1,7 +1,6 @@
 .product_state_conatainer{
     display: flex;
- 
-    border: 5px white solid;
+    border: 2px white solid;
     padding: 10px;
     flex-wrap: nowrap;
     overflow: auto;
@@ -26,17 +25,18 @@
 
 
 ::-webkit-scrollbar{
-    width: 15px;
+    width: 5px;
 }
 
 ::-webkit-scrollbar-track{
     background: hsl(144, 75%, 50%);
- 
+    border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb{
 
     background: hsl(327, 100%, 50%);
+    border-radius: 5px;
    
 
 }
