@@ -1,0 +1,25 @@
+.product_state_conatainer{
+    display: flex;
+ 
+    border: 5px white solid;
+    padding: 10px;
+    flex-wrap: nowrap;
+    overflow: auto;
+   
+    
+}
+
+.icon-backpack{
+    font-size: 40px;
+    padding: 25px;
+
+    
+}
+
+.icon-backpack:hover{
+    background-color: palevioletred;
+}
+
+.product_label{
+    font-size: 15px;
+}
