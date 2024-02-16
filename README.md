@@ -1,8 +1,96 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# SaleAssist.ai Assignment
 
-Currently, two official plugins are available:
+So in this assignmnent I have to build a E-commerce page using Reactjs. I got figma model for refernce.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Tech Stack
+
+**Frontend:** React, Bootstrap
+
+**Enviroment:** React+Vite
+
+
+
+
+
+
+## Features
+
+- Responsive: Supprt all browswer and devices.
+- Added the search bar with error msg.
+- Dynamic loader added while fetching the data.
+- Card hover added.
+- Footer added with company link and my twitter link.
+
+
+
+## API Reference
+
+#### Get all items
+
+```http
+  GET 
+  https://myfirstapi-data.vercel.app
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `json` | **Required**. Get the API data using Axios |
+
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/saurabh29r/Saleassist_ai_assignmen
+```
+
+Go to the project directory
+
+```bash
+  cd salesassistai
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
