@@ -72,3 +72,9 @@ Start the server
 ![salesassistai](https://github.com/saurabh29r/Saleassist_ai_assignment/assets/48233777/d9bab4b9-527b-44da-953b-a2305433d928)
 
 
+
+
+## Google Page speed test 
+![salesassistaitest](https://github.com/saurabh29r/Saleassist_ai_assignment/assets/48233777/7b73c71e-303d-4ab4-8306-7cdd0232444b)
+
+
