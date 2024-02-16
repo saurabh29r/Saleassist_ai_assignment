@@ -4,6 +4,7 @@ import Navbars from "./Components/Navbars";
 import Header from "./Components/Header";
 import Productstate from "./Components/Productstate";
 import Productcard from "./Components/ProductCard";
+import Footer from "./Components/Footer";
 function App() {
   return (
     <>
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Productstate />
       <Productcard />
+      <Footer />
     </>
   );
 }
