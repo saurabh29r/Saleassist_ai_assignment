@@ -17,65 +17,7 @@
   
   
   
-  
-  .carousel-caption{
-      color: magenta;
-      font-weight: bold;
-      padding-right: 75px;
-  }
-  
-  .carosel-1{
-      color: whitesmoke !important;
-     margin-top: 25px;
-  }
-  
-  /* 
-  .prods{
-    display: inline-block;
-    justify-content: center;
-    align-items: center;
-    
-  
-    
-  }
-  .product-container{
-    background-color:cornsilk;
-    width: 20vw;
-    display: inline-flex;
-    padding: 45px;
-    margin: 25px;
-    border-radius: 10px;
-    align-items: center;
-  
-    
-  }
-  
-  
-  .map-image{
-  
-    width: 100%;
-    border-radius: 10px;
-  }
-  
-  .map-image:hover{
-    height: 70%;
-    width: 70%;
-  }
-  
-  .brand{
-    font-weight: bold;
-    text-align: center;
-    padding-top: 10px;
-    color: gray;
-  }
-  
-  .ratings{
-    background-color: palevioletred;
-    padding: 10px;
-    
-  
-  } */
-  
+
   
   Row{
     margin-top: 100px;
@@ -106,7 +48,7 @@
     box-shadow:  0px 2px 5px black;
     transition: transform 0.5s;
     margin: 20px;
-    background-color: palegoldenrod;
+    background-color: paleturquoise;
     width: 280px;
     height: fit-content;
     border-radius: 5px;
@@ -155,7 +97,7 @@
       box-shadow:  0px 2px 5px black;
       transition: transform 0.5s;
       margin: 20px;
-      background-color: palegoldenrod;
+      background-color: paleturquoise;
       width: 375px;
       height: fit-content;
       border-radius: 5px;
@@ -176,30 +118,13 @@
   }
   
   
-  .ratings{
-    /* font-weight: 500;
-    margin-right: 4px;
-    margin-top: 0px;
-    margin-bottom: 0px; */
-   color: #ffffff;
-   display: inline-block;
-   vertical-align: middle; 
-   
+ 
   
   
    
-  }
   
-  .rating-container{
-   
-    background-color: #3b82f6;
-    border-radius: 6px;
-    text-align: center;
-    margin-left:35%;
-    margin-right: 35%;
-    height: 32px;
-  }
   
+ 
   
   
   .input-wrapper{
@@ -253,6 +178,7 @@
    top: 70%;
     left: 50%;
     transform: translate(-50%);
+    
   
   
   }
