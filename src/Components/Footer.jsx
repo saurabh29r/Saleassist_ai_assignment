@@ -7,17 +7,16 @@ function Footer() {
     <Container>
       <Row>
         <Col>
-          <div className="footer">
+          <div className="footer mt-5 ">
             <p className="d-inline p-2 ">
               <FaRegCopyright />
             </p>
             <p className="p-2">
-           
               <a href="https://www.saleassist.ai/" target="_blank">
                 SaleAssist.ai
               </a>
             </p>
-            <p className="d-inline">
+            <p className="d-inline ">
               {" "}
               Made with 💖 by{" "}
               <a href="https://twitter.com/saurabhrauniya4" target="_blank">

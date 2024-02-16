@@ -56,8 +56,7 @@ function Productcard() {
             ) : filteredProducts.length === 0 ? (
               <div className="empty-search-conatiner">
                 <div className="empty-search">
-                  <h3> No Products Found</h3>
-                  <p> Search something else</p>
+                  <h4 className="mt-5"> No Products Found </h4>
                 </div>
               </div>
             ) : (
