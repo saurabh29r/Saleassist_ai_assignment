@@ -23,3 +23,20 @@
 .product_label{
     font-size: 15px;
 }
+
+
+::-webkit-scrollbar{
+    width: 15px;
+}
+
+::-webkit-scrollbar-track{
+    background: hsl(144, 75%, 50%);
+ 
+}
+
+::-webkit-scrollbar-thumb{
+
+    background: hsl(327, 100%, 50%);
+   
+
+}
