@@ -67,13 +67,8 @@ Start the server
 ```bash
   npm run dev
 ```
+## Web_App Screen-shot
 
+![salesassistai](https://github.com/saurabh29r/Saleassist_ai_assignment/assets/48233777/d9bab4b9-527b-44da-953b-a2305433d928)
 
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
 
